@@ -1,7 +1,6 @@
 #include<stdio.h>
 int count = 0;
 int digtCount(int n){
-    
     if(n == 0){
         return count;
     }
